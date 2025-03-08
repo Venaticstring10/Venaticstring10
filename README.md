@@ -1,6 +1,6 @@
 
 # Hello 👋<br>I'm Ethan:
-🔭 Currently assisting development for [Multiverse Gaming](https://multiverse-gaming.uk)<br>🌱 Currently Learning more on PhP and MySQL<br>💬 Ask me about time travel<br>⚡ Currently studying Computer Science with research into Cyber Security
+🔭 Currently assisting development for [Multiverse Gaming](https://multiverse-gaming.uk)<br>🌱 Currently Learning more on PhP and MySQL<br>💬 Ask me about time travel<br>⚡ Going to studying Computer Science with research into Cyber Security
 
 
 ## 🌐 Socials:
